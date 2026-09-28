@@ -19,3 +19,9 @@ content: [
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+# Redux Toolkit
+> npm install @reduxjs/toolkit
+> npm install react-redux
+
+//***Note : Every Application has only one store
